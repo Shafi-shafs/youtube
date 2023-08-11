@@ -1,0 +1,13 @@
+h1{
+    color: crimson;
+}
+
+.img{
+
+    filter: grayscale(50);
+}
+
+#id123{
+
+    color: blue;
+}
